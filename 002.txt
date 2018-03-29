@@ -1,4 +1,3 @@
 remote add 1
 remote add 2
 remote add 3local add 1
-remote add 002 a
